@@ -11,10 +11,10 @@ This project introduces the fundamentals of operating system development. The go
  - [x] a kernel bootable via GRUB.
  - [x] Asm multi-boot.
  - [x] basic kernel libraries:
-   - string
-   - vga
-   - container
-   - port
+ - string
+ - vga
+ - container
+ - port
  - [x] kernel-screen interface to display things.
  - [x] write 42 on the screen.
 
